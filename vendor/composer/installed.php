@@ -5,18 +5,18 @@
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => '87e9dc0502b0ac3ef11a637c92ab512d9fd1b8ca',
-        'name' => 'oop/pph21',
+        'reference' => 'd0279f8f90c77b2b596dff71ac55c0846ebe4d3b',
+        'name' => 'oop-php/pph21',
         'dev' => true,
     ),
     'versions' => array(
-        'oop/pph21' => array(
+        'oop-php/pph21' => array(
             'pretty_version' => 'dev-master',
             'version' => 'dev-master',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => '87e9dc0502b0ac3ef11a637c92ab512d9fd1b8ca',
+            'reference' => 'd0279f8f90c77b2b596dff71ac55c0846ebe4d3b',
             'dev_requirement' => false,
         ),
     ),
